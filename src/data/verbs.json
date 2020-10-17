@@ -1,0 +1,2146 @@
+[
+  {
+    "id": 0,
+    "name": "上がる",
+    "hira": "あがる",
+    "explain": "由低至高移動",
+    "opposite": 1,
+    "type": "intrans"
+  },
+  {
+    "id": 1,
+    "name": "上げる",
+    "hira": "あげる",
+    "explain": "使…由低至高移動",
+    "opposite": 0,
+    "type": "trans"
+  },
+  {
+    "id": 2,
+    "name": "空く",
+    "hira": "あく",
+    "explain": "空缺, 沒有東西",
+    "opposite": 3,
+    "type": "intrans"
+  },
+  {
+    "id": 3,
+    "name": "空ける",
+    "hira": "あける",
+    "explain": "使…有空缺",
+    "opposite": 2,
+    "type": "trans"
+  },
+  {
+    "id": 4,
+    "name": "温まる",
+    "hira": "あたたまる",
+    "explain": "温暖",
+    "opposite": 5,
+    "type": "intrans"
+  },
+  {
+    "id": 5,
+    "name": "温める",
+    "hira": "あたためる",
+    "explain": "使…温暖, 加熱",
+    "opposite": 4,
+    "type": "trans"
+  },
+  {
+    "id": 6,
+    "name": "当たる",
+    "hira": "あたる",
+    "explain": "正中目標",
+    "opposite": 7,
+    "type": "intrans"
+  },
+  {
+    "id": 7,
+    "name": "当てる",
+    "hira": "あてる",
+    "explain": "打",
+    "opposite": 6,
+    "type": "trans"
+  },
+  {
+    "id": 8,
+    "name": "集まる",
+    "hira": "あつまる",
+    "explain": "聚集",
+    "opposite": 9,
+    "type": "intrans"
+  },
+  {
+    "id": 9,
+    "name": "集める",
+    "hira": "あつめる",
+    "explain": "收集",
+    "opposite": 8,
+    "type": "trans"
+  },
+  {
+    "id": 10,
+    "name": "現れる",
+    "hira": "あらわれる",
+    "explain": "冒出",
+    "opposite": 11,
+    "type": "intrans"
+  },
+  {
+    "id": 11,
+    "name": "現す",
+    "hira": "あらわす",
+    "explain": "主動出現",
+    "opposite": 10,
+    "type": "trans"
+  },
+  {
+    "id": 12,
+    "name": "荒れる",
+    "hira": "あれる",
+    "explain": "(狀態) 亂作一團",
+    "opposite": 13,
+    "type": "intrans"
+  },
+  {
+    "id": 13,
+    "name": "荒らす",
+    "hira": "あらす",
+    "explain": "搞到亂七八糟",
+    "opposite": 12,
+    "type": "trans"
+  },
+  {
+    "id": 14,
+    "name": "痛む",
+    "hira": "いたむ",
+    "explain": "疼痛, 悲傷",
+    "opposite": 15,
+    "type": "intrans"
+  },
+  {
+    "id": 15,
+    "name": "痛める",
+    "hira": "いためる",
+    "explain": "弄痛, 弄傷",
+    "opposite": 14,
+    "type": "trans"
+  },
+  {
+    "id": 16,
+    "name": "映る",
+    "hira": "うつる",
+    "explain": "映照出…",
+    "opposite": 17,
+    "type": "intrans"
+  },
+  {
+    "id": 17,
+    "name": "映す",
+    "hira": "うつす",
+    "explain": "將…映照",
+    "opposite": 16,
+    "type": "trans"
+  },
+  {
+    "id": 18,
+    "name": "生まれる",
+    "hira": "うまれる",
+    "explain": "生出BB, 新出現",
+    "opposite": 19,
+    "type": "intrans"
+  },
+  {
+    "id": 19,
+    "name": "生む",
+    "hira": "うむ",
+    "explain": "生出來, 創造出",
+    "opposite": 18,
+    "type": "trans"
+  },
+  {
+    "id": 20,
+    "name": "受かる",
+    "hira": "うかる",
+    "explain": "考試通過",
+    "opposite": 21,
+    "type": "intrans"
+  },
+  {
+    "id": 21,
+    "name": "受ける",
+    "hira": "うける",
+    "explain": "接受",
+    "opposite": 20,
+    "type": "trans"
+  },
+  {
+    "id": 22,
+    "name": "浮かぶ",
+    "hira": "うかぶ",
+    "explain": "Float",
+    "opposite": 23,
+    "type": "intrans"
+  },
+  {
+    "id": 23,
+    "name": "浮かべる",
+    "hira": "うかべる",
+    "explain": "Float",
+    "opposite": 22,
+    "type": "trans"
+  },
+  {
+    "id": 24,
+    "name": "埋まる",
+    "hira": "うまる",
+    "explain": "(狀態)埋",
+    "opposite": 25,
+    "type": "intrans"
+  },
+  {
+    "id": 25,
+    "name": "埋める",
+    "hira": "うめる",
+    "explain": "埋…",
+    "opposite": 24,
+    "type": "trans"
+  },
+  {
+    "id": 26,
+    "name": "薄まる",
+    "hira": "うすまる",
+    "explain": "Dilute",
+    "opposite": 27,
+    "type": "intrans"
+  },
+  {
+    "id": 27,
+    "name": "薄める",
+    "hira": "うすめる",
+    "explain": "Dilute",
+    "opposite": 26,
+    "type": "trans"
+  },
+  {
+    "id": 28,
+    "name": "植わる",
+    "hira": "うわる",
+    "explain": "(狀態)種植",
+    "opposite": 29,
+    "type": "intrans"
+  },
+  {
+    "id": 29,
+    "name": "植える",
+    "hira": "うえる",
+    "explain": "種植…",
+    "opposite": 28,
+    "type": "trans"
+  },
+  {
+    "id": 30,
+    "name": "起きる",
+    "hira": "おきる",
+    "explain": "起了身",
+    "opposite": 31,
+    "type": "intrans"
+  },
+  {
+    "id": 31,
+    "name": "起こす",
+    "hira": "おこす",
+    "explain": "叫人起身",
+    "opposite": 30,
+    "type": "trans"
+  },
+  {
+    "id": 32,
+    "name": "落ちる",
+    "hira": "おちる",
+    "explain": "落下, 陷落",
+    "opposite": 33,
+    "type": "intrans"
+  },
+  {
+    "id": 33,
+    "name": "落とす",
+    "hira": "おとす",
+    "explain": "落",
+    "opposite": 32,
+    "type": "trans"
+  },
+  {
+    "id": 34,
+    "name": "降りる",
+    "hira": "おりる",
+    "explain": "由高至低移動",
+    "opposite": 35,
+    "type": "intrans"
+  },
+  {
+    "id": 35,
+    "name": "降ろす",
+    "hira": "おろす",
+    "explain": "將…放下",
+    "opposite": 34,
+    "type": "trans"
+  },
+  {
+    "id": 36,
+    "name": "折れる",
+    "hira": "おれる",
+    "explain": "斷了, 屈服了",
+    "opposite": 37,
+    "type": "intrans"
+  },
+  {
+    "id": 37,
+    "name": "折る",
+    "hira": "おる",
+    "explain": "(動作) 折(紙)",
+    "opposite": 36,
+    "type": "trans"
+  },
+  {
+    "id": 38,
+    "name": "収まる",
+    "hira": "おさまる",
+    "explain": "事態完結, 告一段落",
+    "opposite": 39,
+    "type": "intrans"
+  },
+  {
+    "id": 39,
+    "name": "収める",
+    "hira": "おさめる",
+    "explain": "放進",
+    "opposite": 38,
+    "type": "trans"
+  },
+  {
+    "id": 40,
+    "name": "遅れる",
+    "hira": "おくれる",
+    "explain": "遲",
+    "opposite": 41,
+    "type": "intrans"
+  },
+  {
+    "id": 41,
+    "name": "遅らす",
+    "hira": "おくらす",
+    "explain": "使…遲",
+    "opposite": 40,
+    "type": "trans"
+  },
+  {
+    "id": 42,
+    "name": "終わる",
+    "hira": "おわる",
+    "explain": "完結",
+    "opposite": 43,
+    "type": "intrans"
+  },
+  {
+    "id": 43,
+    "name": "終える",
+    "hira": "おえる",
+    "explain": "使…完結",
+    "opposite": 42,
+    "type": "trans"
+  },
+  {
+    "id": 44,
+    "name": "消える",
+    "hira": "きえる",
+    "explain": "關了",
+    "opposite": 45,
+    "type": "intrans"
+  },
+  {
+    "id": 45,
+    "name": "消す",
+    "hira": "けす",
+    "explain": "關電器, 熄機",
+    "opposite": 44,
+    "type": "trans"
+  },
+  {
+    "id": 46,
+    "name": "掛かる",
+    "hira": "かかる",
+    "explain": "掛著",
+    "opposite": 47,
+    "type": "intrans"
+  },
+  {
+    "id": 47,
+    "name": "掛ける",
+    "hira": "かける",
+    "explain": "使XX掛著, 放在上面",
+    "opposite": 46,
+    "type": "trans"
+  },
+  {
+    "id": 48,
+    "name": "重なる",
+    "hira": "かさなる",
+    "explain": "疊起",
+    "opposite": 49,
+    "type": "intrans"
+  },
+  {
+    "id": 49,
+    "name": "重ねる",
+    "hira": "かさねる",
+    "explain": "把東西重疊, 重覆",
+    "opposite": 48,
+    "type": "trans"
+  },
+  {
+    "id": 50,
+    "name": "固まる",
+    "hira": "かたまる",
+    "explain": "凝固",
+    "opposite": 51,
+    "type": "intrans"
+  },
+  {
+    "id": 51,
+    "name": "固める",
+    "hira": "かためる",
+    "explain": "加強, 鞏固",
+    "opposite": 50,
+    "type": "trans"
+  },
+  {
+    "id": 52,
+    "name": "傾く",
+    "hira": "かたむく",
+    "explain": "傾斜, 傾向",
+    "opposite": 53,
+    "type": "intrans"
+  },
+  {
+    "id": 53,
+    "name": "傾ける",
+    "hira": "かたむける",
+    "explain": "使XX傾斜",
+    "opposite": 52,
+    "type": "trans"
+  },
+  {
+    "id": 54,
+    "name": "変わる",
+    "hira": "かわる",
+    "explain": "改變",
+    "opposite": 55,
+    "type": "intrans"
+  },
+  {
+    "id": 55,
+    "name": "変える",
+    "hira": "かえる",
+    "explain": "使…改變",
+    "opposite": 54,
+    "type": "trans"
+  },
+  {
+    "id": 56,
+    "name": "叶う",
+    "hira": "かなう",
+    "explain": "實現",
+    "opposite": 57,
+    "type": "intrans"
+  },
+  {
+    "id": 57,
+    "name": "叶える",
+    "hira": "かなえる",
+    "explain": "使…實現",
+    "opposite": 56,
+    "type": "trans"
+  },
+  {
+    "id": 58,
+    "name": "枯れる",
+    "hira": "かれる",
+    "explain": "枯死, 死去",
+    "opposite": 59,
+    "type": "intrans"
+  },
+  {
+    "id": 59,
+    "name": "枯らす",
+    "hira": "からす",
+    "explain": "使XX 枯死, 種死了XX",
+    "opposite": 58,
+    "type": "trans"
+  },
+  {
+    "id": 60,
+    "name": "決まる",
+    "hira": "きまる",
+    "explain": "定好的事情, 總是如此的事情",
+    "opposite": 61,
+    "type": "intrans"
+  },
+  {
+    "id": 61,
+    "name": "決める",
+    "hira": "きめる",
+    "explain": "在很多東西中選一個/ 決定, 方針",
+    "opposite": 60,
+    "type": "trans"
+  },
+  {
+    "id": 62,
+    "name": "砕ける",
+    "hira": "くだける",
+    "explain": "打碎了",
+    "opposite": 63,
+    "type": "intrans"
+  },
+  {
+    "id": 63,
+    "name": "砕く",
+    "hira": "くだく",
+    "explain": "打碎",
+    "opposite": 62,
+    "type": "trans"
+  },
+  {
+    "id": 64,
+    "name": "下る",
+    "hira": "くだる",
+    "explain": "由高至低移動",
+    "opposite": 65,
+    "type": "intrans"
+  },
+  {
+    "id": 65,
+    "name": "下ろす/ 下す",
+    "hira": "おろす/くだす",
+    "explain": "使…由高至低移動",
+    "opposite": 64,
+    "type": "trans"
+  },
+  {
+    "id": 66,
+    "name": "加わる",
+    "hira": "くわわる",
+    "explain": "增加",
+    "opposite": 67,
+    "type": "intrans"
+  },
+  {
+    "id": 67,
+    "name": "加える",
+    "hira": "くわえる",
+    "explain": "給予,加以XX",
+    "opposite": 66,
+    "type": "trans"
+  },
+  {
+    "id": 68,
+    "name": "崩れる",
+    "hira": "くずれる",
+    "explain": "(狀態)崩潰",
+    "opposite": 69,
+    "type": "intrans"
+  },
+  {
+    "id": 69,
+    "name": "崩す",
+    "hira": "くずす",
+    "explain": "使…崩潰",
+    "opposite": 68,
+    "type": "trans"
+  },
+  {
+    "id": 70,
+    "name": "焦げる",
+    "hira": "こげる",
+    "explain": "烤焦了",
+    "opposite": 71,
+    "type": "intrans"
+  },
+  {
+    "id": 71,
+    "name": "焦がす",
+    "hira": "こがす",
+    "explain": "使XX烤焦",
+    "opposite": 70,
+    "type": "trans"
+  },
+  {
+    "id": 72,
+    "name": "込む",
+    "hira": "こむ",
+    "explain": "潛入, 進入",
+    "opposite": 73,
+    "type": "intrans"
+  },
+  {
+    "id": 73,
+    "name": "込める",
+    "hira": "こめる",
+    "explain": "進入, 但人左去就不移動",
+    "opposite": 72,
+    "type": "trans"
+  },
+  {
+    "id": 74,
+    "name": "懲りる",
+    "hira": "こりる",
+    "explain": "懲罰",
+    "opposite": 75,
+    "type": "intrans"
+  },
+  {
+    "id": 75,
+    "name": "懲らす",
+    "hira": "こらす",
+    "explain": "懲戒",
+    "opposite": 74,
+    "type": "trans"
+  },
+  {
+    "id": 76,
+    "name": "転がる",
+    "hira": "ころがる",
+    "explain": "滾動",
+    "opposite": 77,
+    "type": "intrans"
+  },
+  {
+    "id": 77,
+    "name": "転がす",
+    "hira": "ころがす",
+    "explain": "使期滾動",
+    "opposite": 76,
+    "type": "trans"
+  },
+  {
+    "id": 78,
+    "name": "壊れる",
+    "hira": "こわれる",
+    "explain": "壞掉, 出故障",
+    "opposite": 79,
+    "type": "intrans"
+  },
+  {
+    "id": 79,
+    "name": "壊す",
+    "hira": "こわす",
+    "explain": "弄壞",
+    "opposite": 78,
+    "type": "trans"
+  },
+  {
+    "id": 80,
+    "name": "冷める",
+    "hira": "さめる",
+    "explain": "冷卻",
+    "opposite": 81,
+    "type": "intrans"
+  },
+  {
+    "id": 81,
+    "name": "冷ます",
+    "hira": "さます",
+    "explain": "整凍東西",
+    "opposite": 80,
+    "type": "trans"
+  },
+  {
+    "id": 82,
+    "name": "定まる",
+    "hira": "さだまる",
+    "explain": "(狀態)穩定",
+    "opposite": 83,
+    "type": "intrans"
+  },
+  {
+    "id": 83,
+    "name": "定める",
+    "hira": "さだめる",
+    "explain": "使…穩定",
+    "opposite": 82,
+    "type": "trans"
+  },
+  {
+    "id": 84,
+    "name": "閉まる",
+    "hira": "しまる",
+    "explain": "(狀態)關閉",
+    "opposite": 85,
+    "type": "intrans"
+  },
+  {
+    "id": 85,
+    "name": "閉める",
+    "hira": "しめる",
+    "explain": "關上",
+    "opposite": 84,
+    "type": "trans"
+  },
+  {
+    "id": 86,
+    "name": "静まる",
+    "hira": "しずまる",
+    "explain": "(狀態)安靜",
+    "opposite": 87,
+    "type": "intrans"
+  },
+  {
+    "id": 87,
+    "name": "静める",
+    "hira": "しずめる",
+    "explain": "使…安靜",
+    "opposite": 86,
+    "type": "trans"
+  },
+  {
+    "id": 88,
+    "name": "沈む",
+    "hira": "しずむ",
+    "explain": "(狀態)沉",
+    "opposite": 89,
+    "type": "intrans"
+  },
+  {
+    "id": 89,
+    "name": "沈める",
+    "hira": "しずめる",
+    "explain": "使…沉",
+    "opposite": 88,
+    "type": "trans"
+  },
+  {
+    "id": 90,
+    "name": "進む",
+    "hira": "すすむ",
+    "explain": "進步",
+    "opposite": 91,
+    "type": "intrans"
+  },
+  {
+    "id": 91,
+    "name": "進める",
+    "hira": "すすめる",
+    "explain": "向前移動, 提升, 加快",
+    "opposite": 90,
+    "type": "trans"
+  },
+  {
+    "id": 92,
+    "name": "返る",
+    "hira": "かえる",
+    "explain": "有東西歸還了給人",
+    "opposite": 93,
+    "type": "intrans"
+  },
+  {
+    "id": 93,
+    "name": "返す",
+    "hira": "かえす",
+    "explain": "我歸還了東西",
+    "opposite": 92,
+    "type": "trans"
+  },
+  {
+    "id": 94,
+    "name": "添う",
+    "hira": "そう",
+    "explain": "陪伴",
+    "opposite": 95,
+    "type": "intrans"
+  },
+  {
+    "id": 95,
+    "name": "添える",
+    "hira": "そえる",
+    "explain": "附上",
+    "opposite": 94,
+    "type": "trans"
+  },
+  {
+    "id": 96,
+    "name": "備わる",
+    "hira": "そなわる",
+    "explain": "備有, 己裝備",
+    "opposite": 97,
+    "type": "intrans"
+  },
+  {
+    "id": 97,
+    "name": "備える",
+    "hira": "そなえる",
+    "explain": "準備東西",
+    "opposite": 96,
+    "type": "trans"
+  },
+  {
+    "id": 98,
+    "name": "揃う",
+    "hira": "そろう",
+    "explain": "(狀態)集齊",
+    "opposite": 99,
+    "type": "intrans"
+  },
+  {
+    "id": 99,
+    "name": "揃える",
+    "hira": "そろえる",
+    "explain": "將…集齊",
+    "opposite": 98,
+    "type": "trans"
+  },
+  {
+    "id": 100,
+    "name": "育つ",
+    "hira": "そだつ",
+    "explain": "生長, 成長",
+    "opposite": 101,
+    "type": "intrans"
+  },
+  {
+    "id": 101,
+    "name": "育てる",
+    "hira": "そだてる",
+    "explain": "養育",
+    "opposite": 100,
+    "type": "trans"
+  },
+  {
+    "id": 102,
+    "name": "染まる",
+    "hira": "そまる",
+    "explain": "塗上惡習, XX 己染上了色",
+    "opposite": 103,
+    "type": "intrans"
+  },
+  {
+    "id": 103,
+    "name": "染める",
+    "hira": "そめる",
+    "explain": "去染東西, 著色, 著手某件事情",
+    "opposite": 102,
+    "type": "trans"
+  },
+  {
+    "id": 104,
+    "name": "高まる",
+    "hira": "たかまる",
+    "explain": "高企",
+    "opposite": 105,
+    "type": "intrans"
+  },
+  {
+    "id": 105,
+    "name": "高める",
+    "hira": "たかめる",
+    "explain": "提高",
+    "opposite": 104,
+    "type": "trans"
+  },
+  {
+    "id": 106,
+    "name": "立つ",
+    "hira": "たつ",
+    "explain": "(狀態)站",
+    "opposite": 107,
+    "type": "intrans"
+  },
+  {
+    "id": 107,
+    "name": "立てる",
+    "hira": "たてる",
+    "explain": "使…站立",
+    "opposite": 106,
+    "type": "trans"
+  },
+  {
+    "id": 108,
+    "name": "溜まる",
+    "hira": "たまる",
+    "explain": "(狀態)積累",
+    "opposite": 109,
+    "type": "intrans"
+  },
+  {
+    "id": 109,
+    "name": "溜める",
+    "hira": "ためる",
+    "explain": "使…積累",
+    "opposite": 108,
+    "type": "trans"
+  },
+  {
+    "id": 110,
+    "name": "倒れる",
+    "hira": "たおれる",
+    "explain": "倒下",
+    "opposite": 111,
+    "type": "intrans"
+  },
+  {
+    "id": 111,
+    "name": "倒す",
+    "hira": "たおす",
+    "explain": "推倒",
+    "opposite": 110,
+    "type": "trans"
+  },
+  {
+    "id": 112,
+    "name": "絶える",
+    "hira": "たえる",
+    "explain": "斷氣, 消失了,斷絶了",
+    "opposite": 113,
+    "type": "intrans"
+  },
+  {
+    "id": 113,
+    "name": "絶やす",
+    "hira": "たやす",
+    "explain": "杜絶, 消滅(東西)",
+    "opposite": 112,
+    "type": "trans"
+  },
+  {
+    "id": 114,
+    "name": "垂れる",
+    "hira": "たれる",
+    "explain": "垂下",
+    "opposite": 115,
+    "type": "intrans"
+  },
+  {
+    "id": 115,
+    "name": "垂らす",
+    "hira": "たらす",
+    "explain": "使…垂下",
+    "opposite": 114,
+    "type": "trans"
+  },
+  {
+    "id": 116,
+    "name": "違う",
+    "hira": "ちがう",
+    "explain": "不同",
+    "opposite": 117,
+    "type": "intrans"
+  },
+  {
+    "id": 117,
+    "name": "違える",
+    "hira": "ちがえる",
+    "explain": "使…不同",
+    "opposite": 116,
+    "type": "trans"
+  },
+  {
+    "id": 118,
+    "name": "縮む",
+    "hira": "ちぢむ",
+    "explain": "縮短",
+    "opposite": 119,
+    "type": "intrans"
+  },
+  {
+    "id": 119,
+    "name": "縮める",
+    "hira": "ちぢめる",
+    "explain": "使…縮短",
+    "opposite": 118,
+    "type": "trans"
+  },
+  {
+    "id": 120,
+    "name": "潰れる",
+    "hira": "つぶれる",
+    "explain": "不能使用的狀態",
+    "opposite": 121,
+    "type": "intrans"
+  },
+  {
+    "id": 121,
+    "name": "潰す",
+    "hira": "つぶす",
+    "explain": "使…不能使用, 失去功能",
+    "opposite": 120,
+    "type": "trans"
+  },
+  {
+    "id": 122,
+    "name": "続く",
+    "hira": "つづく",
+    "explain": "連續",
+    "opposite": 123,
+    "type": "intrans"
+  },
+  {
+    "id": 123,
+    "name": "続ける",
+    "hira": "つづける",
+    "explain": "使XX 連接起來",
+    "opposite": 122,
+    "type": "trans"
+  },
+  {
+    "id": 124,
+    "name": "務まる",
+    "hira": "つとまる",
+    "explain": "(狀態)執行",
+    "opposite": 125,
+    "type": "intrans"
+  },
+  {
+    "id": 125,
+    "name": "務める",
+    "hira": "つとめる",
+    "explain": "執行…",
+    "opposite": 124,
+    "type": "trans"
+  },
+  {
+    "id": 126,
+    "name": "捕まる",
+    "hira": "つかまる",
+    "explain": "抓",
+    "opposite": 127,
+    "type": "intrans"
+  },
+  {
+    "id": 127,
+    "name": "捕まえる",
+    "hira": "つかまえる",
+    "explain": "捕捉",
+    "opposite": 126,
+    "type": "trans"
+  },
+  {
+    "id": 128,
+    "name": "伝わる",
+    "hira": "つたわる",
+    "explain": "傳遞",
+    "opposite": 129,
+    "type": "intrans"
+  },
+  {
+    "id": 129,
+    "name": "伝える",
+    "hira": "つたえる",
+    "explain": "將…傳遞",
+    "opposite": 128,
+    "type": "trans"
+  },
+  {
+    "id": 130,
+    "name": "詰まる",
+    "hira": "つまる",
+    "explain": "盡頭",
+    "opposite": 131,
+    "type": "intrans"
+  },
+  {
+    "id": 131,
+    "name": "詰める",
+    "hira": "つめる",
+    "explain": "使…到盡頭",
+    "opposite": 130,
+    "type": "trans"
+  },
+  {
+    "id": 132,
+    "name": "照る",
+    "hira": "てる",
+    "explain": "照耀",
+    "opposite": 133,
+    "type": "intrans"
+  },
+  {
+    "id": 133,
+    "name": "照らす",
+    "hira": "てらす",
+    "explain": "對照, 參照",
+    "opposite": 132,
+    "type": "trans"
+  },
+  {
+    "id": 134,
+    "name": "出る",
+    "hira": "でる",
+    "explain": "出來",
+    "opposite": 135,
+    "type": "intrans"
+  },
+  {
+    "id": 135,
+    "name": "出す",
+    "hira": "だす",
+    "explain": "拿出來",
+    "opposite": 134,
+    "type": "trans"
+  },
+  {
+    "id": 136,
+    "name": "溶ける",
+    "hira": "とける",
+    "explain": "溶化",
+    "opposite": 137,
+    "type": "intrans"
+  },
+  {
+    "id": 137,
+    "name": "溶かす",
+    "hira": "とかす",
+    "explain": "溶解, 溶化",
+    "opposite": 136,
+    "type": "trans"
+  },
+  {
+    "id": 138,
+    "name": "溶ける",
+    "hira": "とける",
+    "explain": "溶化",
+    "opposite": 139,
+    "type": "intrans"
+  },
+  {
+    "id": 139,
+    "name": "溶く",
+    "hira": "とく",
+    "explain": "調匀, 使…溶化",
+    "opposite": 138,
+    "type": "trans"
+  },
+  {
+    "id": 140,
+    "name": "届く",
+    "hira": "とどく",
+    "explain": "送來, 到逹",
+    "opposite": 141,
+    "type": "intrans"
+  },
+  {
+    "id": 141,
+    "name": "届ける",
+    "hira": "とどける",
+    "explain": "送到XX 呈報",
+    "opposite": 140,
+    "type": "trans"
+  },
+  {
+    "id": 142,
+    "name": "ずれる",
+    "hira": "ずれる",
+    "explain": "移位",
+    "opposite": 143,
+    "type": "intrans"
+  },
+  {
+    "id": 143,
+    "name": "ずらす",
+    "hira": "ずらす",
+    "explain": "使…移位",
+    "opposite": 142,
+    "type": "trans"
+  },
+  {
+    "id": 144,
+    "name": "止まる",
+    "hira": "とまる",
+    "explain": "XX 停了",
+    "opposite": 145,
+    "type": "intrans"
+  },
+  {
+    "id": 145,
+    "name": "止める",
+    "hira": "とめる",
+    "explain": "停止了",
+    "opposite": 144,
+    "type": "trans"
+  },
+  {
+    "id": 146,
+    "name": "整う",
+    "hira": "ととのう",
+    "explain": "(狀態)整理",
+    "opposite": 147,
+    "type": "intrans"
+  },
+  {
+    "id": 147,
+    "name": "整える",
+    "hira": "ととのえる",
+    "explain": "整理…",
+    "opposite": 146,
+    "type": "trans"
+  },
+  {
+    "id": 148,
+    "name": "並ぶ",
+    "hira": "ならぶ",
+    "explain": "排隊",
+    "opposite": 149,
+    "type": "intrans"
+  },
+  {
+    "id": 149,
+    "name": "並べる",
+    "hira": "ならべる",
+    "explain": "使…排列",
+    "opposite": 148,
+    "type": "trans"
+  },
+  {
+    "id": 150,
+    "name": "流れる",
+    "hira": "ながれる",
+    "explain": "流走",
+    "opposite": 151,
+    "type": "intrans"
+  },
+  {
+    "id": 151,
+    "name": "流す",
+    "hira": "ながす",
+    "explain": "使XX 沖走,",
+    "opposite": 150,
+    "type": "trans"
+  },
+  {
+    "id": 152,
+    "name": "治る",
+    "hira": "なおる",
+    "explain": "治癒",
+    "opposite": 153,
+    "type": "intrans"
+  },
+  {
+    "id": 153,
+    "name": "治す",
+    "hira": "なおす",
+    "explain": "治療",
+    "opposite": 152,
+    "type": "trans"
+  },
+  {
+    "id": 154,
+    "name": "逃げる",
+    "hira": "にげる",
+    "explain": "逃掉",
+    "opposite": 155,
+    "type": "intrans"
+  },
+  {
+    "id": 155,
+    "name": "逃がす",
+    "hira": "にがす",
+    "explain": "放走",
+    "opposite": 154,
+    "type": "trans"
+  },
+  {
+    "id": 156,
+    "name": "濡れる",
+    "hira": "ぬれる",
+    "explain": "弄濕了",
+    "opposite": 157,
+    "type": "intrans"
+  },
+  {
+    "id": 157,
+    "name": "濡らす",
+    "hira": "ぬらす",
+    "explain": "使XX 弄濕",
+    "opposite": 156,
+    "type": "trans"
+  },
+  {
+    "id": 158,
+    "name": "抜ける",
+    "hira": "ぬける",
+    "explain": "脫掉, 拔掉",
+    "opposite": 159,
+    "type": "intrans"
+  },
+  {
+    "id": 159,
+    "name": "抜く",
+    "hira": "ぬく",
+    "explain": "使…脫掉, 拔掉",
+    "opposite": 158,
+    "type": "trans"
+  },
+  {
+    "id": 160,
+    "name": "ねじれる",
+    "hira": "ねじれる",
+    "explain": "扭曲",
+    "opposite": 161,
+    "type": "intrans"
+  },
+  {
+    "id": 161,
+    "name": "ねじる",
+    "hira": "ねじる",
+    "explain": "使…扭曲",
+    "opposite": 160,
+    "type": "trans"
+  },
+  {
+    "id": 162,
+    "name": "乗る",
+    "hira": "のる",
+    "explain": "乘車",
+    "opposite": 163,
+    "type": "intrans"
+  },
+  {
+    "id": 163,
+    "name": "乗せる",
+    "hira": "のせる",
+    "explain": "乘車",
+    "opposite": 162,
+    "type": "trans"
+  },
+  {
+    "id": 164,
+    "name": "伸びる",
+    "hira": "のびる",
+    "explain": "伸長",
+    "opposite": 165,
+    "type": "intrans"
+  },
+  {
+    "id": 165,
+    "name": "伸ばす",
+    "hira": "のばす",
+    "explain": "使…延長",
+    "opposite": 164,
+    "type": "trans"
+  },
+  {
+    "id": 166,
+    "name": "残る",
+    "hira": "のこる",
+    "explain": "留下",
+    "opposite": 167,
+    "type": "intrans"
+  },
+  {
+    "id": 167,
+    "name": "残す",
+    "hira": "残す",
+    "explain": "使…留下",
+    "opposite": 166,
+    "type": "trans"
+  },
+  {
+    "id": 168,
+    "name": "剝げる",
+    "hira": "はげる",
+    "explain": "(狀態)剝",
+    "opposite": 169,
+    "type": "intrans"
+  },
+  {
+    "id": 169,
+    "name": "剝がす",
+    "hira": "はがす",
+    "explain": "剝",
+    "opposite": 168,
+    "type": "trans"
+  },
+  {
+    "id": 170,
+    "name": "始まる",
+    "hira": "はじまる",
+    "explain": "(狀態)開始",
+    "opposite": 171,
+    "type": "intrans"
+  },
+  {
+    "id": 171,
+    "name": "始める",
+    "hira": "はじめる",
+    "explain": "使…開始",
+    "opposite": 170,
+    "type": "trans"
+  },
+  {
+    "id": 172,
+    "name": "入る",
+    "hira": "はいる",
+    "explain": "進入",
+    "opposite": 173,
+    "type": "intrans"
+  },
+  {
+    "id": 173,
+    "name": "入れる",
+    "hira": "はいれる",
+    "explain": "使XX投到物體中, 進入組織",
+    "opposite": 172,
+    "type": "trans"
+  },
+  {
+    "id": 174,
+    "name": "生える",
+    "hira": "はえる",
+    "explain": "生長",
+    "opposite": 175,
+    "type": "intrans"
+  },
+  {
+    "id": 175,
+    "name": "生やす",
+    "hira": "はやす",
+    "explain": "使其生長",
+    "opposite": 174,
+    "type": "trans"
+  },
+  {
+    "id": 176,
+    "name": "外れる",
+    "hira": "はずれる",
+    "explain": "脫落, 脫離",
+    "opposite": 177,
+    "type": "intrans"
+  },
+  {
+    "id": 177,
+    "name": "外す",
+    "hira": "はずす",
+    "explain": "摘下, 除下",
+    "opposite": 176,
+    "type": "trans"
+  },
+  {
+    "id": 178,
+    "name": "嵌る",
+    "hira": "はる",
+    "explain": "(狀態)嵌入",
+    "opposite": 179,
+    "type": "intrans"
+  },
+  {
+    "id": 179,
+    "name": "嵌める",
+    "hira": "はめる",
+    "explain": "使…嵌入",
+    "opposite": 178,
+    "type": "trans"
+  },
+  {
+    "id": 180,
+    "name": "冷える",
+    "hira": "ひえる",
+    "explain": "(天氣)變冷",
+    "opposite": 181,
+    "type": "intrans"
+  },
+  {
+    "id": 181,
+    "name": "冷やす",
+    "hira": "ひやす",
+    "explain": "冰鎮, 弄冷",
+    "opposite": 180,
+    "type": "trans"
+  },
+  {
+    "id": 182,
+    "name": "引ける",
+    "hira": "ひける",
+    "explain": "(狀態)拉",
+    "opposite": 183,
+    "type": "intrans"
+  },
+  {
+    "id": 183,
+    "name": "引く",
+    "hira": "ひく",
+    "explain": "拉",
+    "opposite": 182,
+    "type": "trans"
+  },
+  {
+    "id": 184,
+    "name": "広がる",
+    "hira": "ひろがる",
+    "explain": "(狀態)廣闊",
+    "opposite": 185,
+    "type": "intrans"
+  },
+  {
+    "id": 185,
+    "name": "広げる",
+    "hira": "ひろげる",
+    "explain": "使…廣闊",
+    "opposite": 184,
+    "type": "trans"
+  },
+  {
+    "id": 186,
+    "name": "浸る",
+    "hira": "ひたる",
+    "explain": "浸在水中",
+    "opposite": 187,
+    "type": "intrans"
+  },
+  {
+    "id": 187,
+    "name": "浸す",
+    "hira": "ひたす",
+    "explain": "把XX 浸",
+    "opposite": 186,
+    "type": "trans"
+  },
+  {
+    "id": 188,
+    "name": "増える",
+    "hira": "ふえる",
+    "explain": "增加, 多起來",
+    "opposite": 189,
+    "type": "intrans"
+  },
+  {
+    "id": 189,
+    "name": "増やす",
+    "hira": "ふやす",
+    "explain": "使XX增加",
+    "opposite": 188,
+    "type": "trans"
+  },
+  {
+    "id": 190,
+    "name": "震える",
+    "hira": "ふるえる",
+    "explain": "震抖",
+    "opposite": 191,
+    "type": "intrans"
+  },
+  {
+    "id": 191,
+    "name": "震わす",
+    "hira": "ふるわす",
+    "explain": "使東西震動",
+    "opposite": 190,
+    "type": "trans"
+  },
+  {
+    "id": 192,
+    "name": "取れる",
+    "hira": "とれる",
+    "explain": "(狀態)取得",
+    "opposite": 193,
+    "type": "intrans"
+  },
+  {
+    "id": 193,
+    "name": "取る",
+    "hira": "とる",
+    "explain": "拎",
+    "opposite": 192,
+    "type": "trans"
+  },
+  {
+    "id": 194,
+    "name": "通る",
+    "hira": "とおる",
+    "explain": "(狀態)穿透",
+    "opposite": 195,
+    "type": "intrans"
+  },
+  {
+    "id": 195,
+    "name": "通す",
+    "hira": "とおす",
+    "explain": "通過",
+    "opposite": 194,
+    "type": "trans"
+  },
+  {
+    "id": 196,
+    "name": "減る",
+    "hira": "へる",
+    "explain": "減少",
+    "opposite": 197,
+    "type": "intrans"
+  },
+  {
+    "id": 197,
+    "name": "減らす",
+    "hira": "へらす",
+    "explain": "減少",
+    "opposite": 196,
+    "type": "trans"
+  },
+  {
+    "id": 198,
+    "name": "滅びる",
+    "hira": "ほろびる",
+    "explain": "滅絕",
+    "opposite": 199,
+    "type": "intrans"
+  },
+  {
+    "id": 199,
+    "name": "滅ぼす",
+    "hira": "ほろぼす",
+    "explain": "使XX 滅亡",
+    "opposite": 198,
+    "type": "trans"
+  },
+  {
+    "id": 200,
+    "name": "解ける",
+    "hira": "とける",
+    "explain": "(狀態)解開",
+    "opposite": 201,
+    "type": "intrans"
+  },
+  {
+    "id": 201,
+    "name": "解く",
+    "hira": "とく",
+    "explain": "解開",
+    "opposite": 200,
+    "type": "trans"
+  },
+  {
+    "id": 202,
+    "name": "負ける",
+    "hira": "まける",
+    "explain": "敗于XX, 屈服於XX, 降價",
+    "opposite": 203,
+    "type": "intrans"
+  },
+  {
+    "id": 203,
+    "name": "負かす",
+    "hira": "まかす",
+    "explain": "輸掉, 擊敗",
+    "opposite": 202,
+    "type": "trans"
+  },
+  {
+    "id": 204,
+    "name": "回る",
+    "hira": "まわる",
+    "explain": "轉動",
+    "opposite": 205,
+    "type": "intrans"
+  },
+  {
+    "id": 205,
+    "name": "回す",
+    "hira": "まわす",
+    "explain": "旋轉",
+    "opposite": 204,
+    "type": "trans"
+  },
+  {
+    "id": 206,
+    "name": "曲がる",
+    "hira": "まがる",
+    "explain": "轉彎",
+    "opposite": 207,
+    "type": "intrans"
+  },
+  {
+    "id": 207,
+    "name": "曲げる",
+    "hira": "まげる",
+    "explain": "使…彎曲",
+    "opposite": 206,
+    "type": "trans"
+  },
+  {
+    "id": 208,
+    "name": "混ざる",
+    "hira": "まざる",
+    "explain": "(狀態)混和, 混合",
+    "opposite": 209,
+    "type": "intrans"
+  },
+  {
+    "id": 209,
+    "name": "混ぜる",
+    "hira": "まぜる",
+    "explain": "混和, 混合",
+    "opposite": 208,
+    "type": "trans"
+  },
+  {
+    "id": 210,
+    "name": "丸まる",
+    "hira": "まるまる",
+    "explain": "圓形的狀態",
+    "opposite": 211,
+    "type": "intrans"
+  },
+  {
+    "id": 211,
+    "name": "丸める",
+    "hira": "まるめる",
+    "explain": "弄圆, 拉關係",
+    "opposite": 210,
+    "type": "trans"
+  },
+  {
+    "id": 212,
+    "name": "纏まる",
+    "hira": "まとまる",
+    "explain": "(狀態)整理, 收拾",
+    "opposite": 213,
+    "type": "intrans"
+  },
+  {
+    "id": 213,
+    "name": "纏める",
+    "hira": "まとめる",
+    "explain": "整理, 收拾",
+    "opposite": 212,
+    "type": "trans"
+  },
+  {
+    "id": 214,
+    "name": "満ちる",
+    "hira": "みちる",
+    "explain": "充滿 (自信)",
+    "opposite": 215,
+    "type": "intrans"
+  },
+  {
+    "id": 215,
+    "name": "満たす",
+    "hira": "みたす",
+    "explain": "填滿, 使XX滿足",
+    "opposite": 214,
+    "type": "trans"
+  },
+  {
+    "id": 216,
+    "name": "乱れる",
+    "hira": "みだれる",
+    "explain": "(狀態)亂",
+    "opposite": 217,
+    "type": "intrans"
+  },
+  {
+    "id": 217,
+    "name": "乱す",
+    "hira": "みだす",
+    "explain": "打亂",
+    "opposite": 216,
+    "type": "trans"
+  },
+  {
+    "id": 218,
+    "name": "向く",
+    "hira": "むく",
+    "explain": "面向",
+    "opposite": 219,
+    "type": "intrans"
+  },
+  {
+    "id": 219,
+    "name": "向ける",
+    "hira": "むける",
+    "explain": "傾向",
+    "opposite": 218,
+    "type": "trans"
+  },
+  {
+    "id": 220,
+    "name": "燃える",
+    "hira": "もえる",
+    "explain": "燒",
+    "opposite": 221,
+    "type": "intrans"
+  },
+  {
+    "id": 221,
+    "name": "燃やす",
+    "hira": "もやす",
+    "explain": "令其燃燒",
+    "opposite": 220,
+    "type": "trans"
+  },
+  {
+    "id": 222,
+    "name": "揉める",
+    "hira": "もめる",
+    "explain": "(狀態)揉",
+    "opposite": 223,
+    "type": "intrans"
+  },
+  {
+    "id": 223,
+    "name": "揉む",
+    "hira": "もむ",
+    "explain": "揉",
+    "opposite": 222,
+    "type": "trans"
+  },
+  {
+    "id": 224,
+    "name": "儲かる",
+    "hira": "もうかる",
+    "explain": "(狀態)儲存",
+    "opposite": 225,
+    "type": "intrans"
+  },
+  {
+    "id": 225,
+    "name": "儲ける",
+    "hira": "もうける",
+    "explain": "賺存",
+    "opposite": 224,
+    "type": "trans"
+  },
+  {
+    "id": 226,
+    "name": "戻る",
+    "hira": "もどる",
+    "explain": "回來",
+    "opposite": 227,
+    "type": "intrans"
+  },
+  {
+    "id": 227,
+    "name": "戻す",
+    "hira": "もどす",
+    "explain": "歸還",
+    "opposite": 226,
+    "type": "trans"
+  },
+  {
+    "id": 228,
+    "name": "止む",
+    "hira": "やむ",
+    "explain": "停止",
+    "opposite": 229,
+    "type": "intrans"
+  },
+  {
+    "id": 229,
+    "name": "やめる",
+    "hira": "やめる",
+    "explain": "終止, 作罷",
+    "opposite": 228,
+    "type": "trans"
+  },
+  {
+    "id": 230,
+    "name": "焼ける",
+    "hira": "やける",
+    "explain": "(狀態)燒",
+    "opposite": 231,
+    "type": "intrans"
+  },
+  {
+    "id": 231,
+    "name": "焼く",
+    "hira": "やく",
+    "explain": "燒",
+    "opposite": 230,
+    "type": "trans"
+  },
+  {
+    "id": 232,
+    "name": "破ける",
+    "hira": "やぶける",
+    "explain": "破洞",
+    "opposite": 233,
+    "type": "intrans"
+  },
+  {
+    "id": 233,
+    "name": "破く",
+    "hira": "やぶく",
+    "explain": "使…有破洞",
+    "opposite": 232,
+    "type": "trans"
+  },
+  {
+    "id": 234,
+    "name": "破れる",
+    "hira": "やぶれる",
+    "explain": "破了",
+    "opposite": 235,
+    "type": "intrans"
+  },
+  {
+    "id": 235,
+    "name": "破る",
+    "hira": "やぶる",
+    "explain": "弄破",
+    "opposite": 234,
+    "type": "trans"
+  },
+  {
+    "id": 236,
+    "name": "休まる",
+    "hira": "やすまる",
+    "explain": "(狀態)休息",
+    "opposite": 237,
+    "type": "intrans"
+  },
+  {
+    "id": 237,
+    "name": "休める",
+    "hira": "やすめる",
+    "explain": "休息",
+    "opposite": 236,
+    "type": "trans"
+  },
+  {
+    "id": 238,
+    "name": "揺れる",
+    "hira": "ゆれる",
+    "explain": "搖動",
+    "opposite": 239,
+    "type": "intrans"
+  },
+  {
+    "id": 239,
+    "name": "揺らす",
+    "hira": "ゆらす",
+    "explain": "使…搖動",
+    "opposite": 238,
+    "type": "trans"
+  },
+  {
+    "id": 240,
+    "name": "汚れる",
+    "hira": "よごれる",
+    "explain": "髒",
+    "opposite": 241,
+    "type": "intrans"
+  },
+  {
+    "id": 241,
+    "name": "汚す",
+    "hira": "よごす",
+    "explain": "弄髒, 弄污",
+    "opposite": 240,
+    "type": "trans"
+  },
+  {
+    "id": 242,
+    "name": "膨れる",
+    "hira": "ふくれる",
+    "explain": "(狀態)膨脹",
+    "opposite": 243,
+    "type": "intrans"
+  },
+  {
+    "id": 243,
+    "name": "膨らます",
+    "hira": "ふくらます",
+    "explain": "使…膨脹",
+    "opposite": 242,
+    "type": "trans"
+  },
+  {
+    "id": 244,
+    "name": "ふつかる",
+    "hira": "ふつかる",
+    "explain": "遇上, 擊中",
+    "opposite": 245,
+    "type": "intrans"
+  },
+  {
+    "id": 245,
+    "name": "ぶつける",
+    "hira": "ぶつける",
+    "explain": "投, 兩隊交鋒",
+    "opposite": 244,
+    "type": "trans"
+  },
+  {
+    "id": 246,
+    "name": "弱まる",
+    "hira": "よわまる",
+    "explain": "(狀態)弱",
+    "opposite": 247,
+    "type": "intrans"
+  },
+  {
+    "id": 247,
+    "name": "弱める",
+    "hira": "よわめる",
+    "explain": "使…弱",
+    "opposite": 246,
+    "type": "trans"
+  },
+  {
+    "id": 248,
+    "name": "割れる",
+    "hira": "われる",
+    "explain": "XX 破了",
+    "opposite": 249,
+    "type": "intrans"
+  },
+  {
+    "id": 249,
+    "name": "割る",
+    "hira": "わる",
+    "explain": "打破了",
+    "opposite": 248,
+    "type": "trans"
+  },
+  {
+    "id": 250,
+    "name": "開く",
+    "hira": "あく",
+    "explain": "開",
+    "opposite": 251,
+    "type": "intrans"
+  },
+  {
+    "id": 251,
+    "name": "開ける",
+    "hira": "あける",
+    "explain": "開",
+    "opposite": 250,
+    "type": "trans"
+  },
+  {
+    "id": 252,
+    "name": "閉まる",
+    "hira": "しまる",
+    "explain": "關",
+    "opposite": 253,
+    "type": "intrans"
+  },
+  {
+    "id": 253,
+    "name": "閉める",
+    "hira": "しめる",
+    "explain": "關",
+    "opposite": 252,
+    "type": "trans"
+  },
+  {
+    "id": 254,
+    "name": "動く",
+    "hira": "うごく",
+    "explain": "動",
+    "opposite": 255,
+    "type": "intrans"
+  },
+  {
+    "id": 255,
+    "name": "動かす",
+    "hira": "うごかす",
+    "explain": "動",
+    "opposite": 254,
+    "type": "trans"
+  },
+  {
+    "id": 256,
+    "name": "つく",
+    "hira": "つく",
+    "explain": "電器開了",
+    "opposite": 257,
+    "type": "intrans"
+  },
+  {
+    "id": 257,
+    "name": "つける",
+    "hira": "つける",
+    "explain": "開電器",
+    "opposite": 256,
+    "type": "trans"
+  },
+  {
+    "id": 258,
+    "name": "極まる",
+    "hira": "きわまる",
+    "explain": "(狀態)極限",
+    "opposite": 259,
+    "type": "intrans"
+  },
+  {
+    "id": 259,
+    "name": "極める",
+    "hira": "きわめる",
+    "explain": "使…極限",
+    "opposite": 258,
+    "type": "trans"
+  },
+  {
+    "id": 260,
+    "name": "下がる",
+    "hira": "さがる",
+    "explain": "(狀態)下降",
+    "opposite": 261,
+    "type": "intrans"
+  },
+  {
+    "id": 261,
+    "name": "下げる",
+    "hira": "さげる",
+    "explain": "使…下降",
+    "opposite": 260,
+    "type": "trans"
+  },
+  {
+    "id": 262,
+    "name": "寄る",
+    "hira": "よる",
+    "explain": "(狀態)靠近",
+    "opposite": 263,
+    "type": "intrans"
+  },
+  {
+    "id": 263,
+    "name": "寄せる",
+    "hira": "よせる",
+    "explain": "主動向…靠近",
+    "opposite": 262,
+    "type": "trans"
+  },
+  {
+    "id": 264,
+    "name": "隠れる",
+    "hira": "かくれる",
+    "explain": "(狀態)隱藏",
+    "opposite": 265,
+    "type": "intrans"
+  },
+  {
+    "id": 265,
+    "name": "隠す",
+    "hira": "かくす",
+    "explain": "隱藏",
+    "opposite": 264,
+    "type": "trans"
+  },
+  {
+    "id": 266,
+    "name": "生きる",
+    "hira": "いきる",
+    "explain": "生存, 生活",
+    "opposite": 267,
+    "type": "intrans"
+  },
+  {
+    "id": 267,
+    "name": "生かす",
+    "hira": "いかす",
+    "explain": "活化",
+    "opposite": 266,
+    "type": "trans"
+  }
+]
