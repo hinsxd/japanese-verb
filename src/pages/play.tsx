@@ -44,6 +44,9 @@ const Play: NextPage = ({}) => {
           <Typography variant="h1" className={classes.currentVerb}>
             {currentVerb.name}
           </Typography>
+          <Typography variant="h5" className={classes.currentVerb}>
+            {currentVerb.hira}
+          </Typography>
           <Typography variant="h3" className={classes.score}>
             {score}
           </Typography>
